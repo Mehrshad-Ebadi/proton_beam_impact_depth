@@ -74,8 +74,3 @@ Key parameters:
 ```
 pip install torch numpy deepxde
 ```
-
----
-
-## 🤝 Notes
-File names do not include 'IBA' prefix in this version.
